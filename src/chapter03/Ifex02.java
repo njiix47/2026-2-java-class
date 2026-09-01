@@ -1,4 +1,4 @@
-package Chapter03;
+package chapter03;
 
 public class Ifex02 {
     public static void main(String[] args) {
